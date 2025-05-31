@@ -1,4 +1,3 @@
-# AI-Sign-Language-Translator
 # 🤟 AI-Powered Sign Language Translator
 
 This project uses a Convolutional Neural Network (CNN) model trained on American Sign Language (ASL) images to translate hand gestures into real-time text using webcam input. A Streamlit web app is used to display the result with an interactive interface.
